@@ -1,2 +1,2 @@
 # goMicroService
-Mico Serice structure in Go
+Micoservice structure in Go
